@@ -2,7 +2,7 @@
 <h2>Description&nbsp;</h2>
 <p>The <em>ASM Policy Migration </em>workflow is used for migrating ASM policies between the F5 devices (that is, from a source device to a destination device). You can only migrate the policy from a lower version of F5 device to a higher version or between the same versions of F5 devices. A new policy is created on the destination device with the same configuration as in the source device and is associated with a virtual server present in the destination device. Also, you have the option to integrate the workflow with an ITSM tool called ServiceNow for approvals and tracking. The ServiceNow change request ID is associated with the request and is updated based on the implementation status.</p>
 <p>&nbsp;</p>
-<p><img src="hhttps://github.com/AppViewX/AVX-12.X-Visual-Workflows/blob/master/ASM%20Policy%20Migration/docs/img/F5%20ASM%20policy%20Migration.png" alt="&ldquo;F5" width="&ldquo;600&rdquo;" /> </p>
+<p><img src="https://github.com/AppViewX/AVX-12.X-Visual-Workflows/blob/master/ASM%20Policy%20Migration/docs/img/F5%20ASM%20policy%20Migration.png" alt="&ldquo;F5" width="&ldquo;600&rdquo;" /> </p>
 <h2>Prerequisites</h2>
 <p><br />To run this automation workflow in your environment, ensure that the following pre-requisites are met:</p>
 <ul>
