@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Reference Implemenations - AVX 12.2 Visual Workflows 
 
-You can use the [editor on GitHub](https://github.com/AppViewX/AVX-12.X-Visual-Workflows/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ApViewX Reference Implemenations (RI) provide automtion workflow to solve real customer problems. The automation workflow orchestrates with  other network services to offer complete end-to-end automation solution. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+These automaton workflows can be easily implemented into your existing network, by intalling AppViewX and importing these RI workflows. The AppViewX platform provides the flexibilty to tailor these automation workfolws to meet your business needs. AppViewX Visual workflow provides an intuitive and visual system for designing self-serviceable, event-driven, intelligent and automated workflows.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AppViewX/AVX-12.X-Visual-Workflows/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+To get started, download the free version of AppViewX. It is an evaulation version for non-production use only.
+https://www.appviewx.com/free-appviewx/
